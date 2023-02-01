@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-    system("COLOR F2");
     int t, i;
     cin>>t;
     while(t--)
